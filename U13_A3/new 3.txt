@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+<title>Mobile World Station</title>
+<img src="images/banner.png" alt="Mobile World Station"  
+<nav>
+
+<p>
+      <a href="index.htm">Index</a>
+	  <a href="iphone.htm">iPhone</a> 
+	  <a href="samsung.htm">Samsung</a>
+	  <a href="googlepixel.htm">Google Pixel</a>
+	  <a href="compare.htm">Compare</a>
+	  <a href="accesories.htm">Accesories</a>
+	  <a href="services.htm">Services</a> 
+	  <a href="contact.htm">Contact</a>
+	  </p>
+	
+<style>
+
+body {
+
+       a:link{color:#44763E;}
+	   a:visited{color:#9C2511;}
+	   a:hover{color:#089D1B;}
+       font-family: Arial, Helvetica, sans-serif;
+	   max-width:850px;
+	   margin: 0 auto;
+	   padding 125px;
+	 }  
+	 h1{
+	   color:#44763E;
+	 }  
+	 
+	 p{ 
+	  color#161716;
+	  } 
+
+	  
+	  </style>	  
+	  
+<h3>iPhone 17</h3>	  
+
+<p><a href="https://www.apple.com/uk/iphone-17/"> 
+<img src="images/iphone17.png" alt="iPhone 17" width="160" height="250" style="float: left; padding-left: 10px;"> 
+</a></p>
+
+<p>With a 6.3-inch Super Retina XDR display, along with a 48MP Fusion Main camera capable of 4x the resolution of the iPhone 16. The iPhone 17 is Apple’s newest design that builds greatly upon its predecessor.</p> 
+<p>Display - LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)</p>
+<p>Resolution - 1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density)</p>
+<p>Battery Life - 18 Hours</p>
+
+<h3>iPhone 17 Pro</h3>
+
+<p><a href="https://www.apple.com/uk/iphone-17-pro/"> 
+<img src="images/iphone_17_pro2.png" alt="iPhone 17 Pro" width="150" height="280" style="float: left; padding-left: 10px"> 
+</a></p>
+
+<p>An additional front camera with up to 8x optical-quality zoom and 7 hours more battery life are just some of the positives of the iPhone 17 Pro. With its innovative thermal design, the Pro’s CPU and GPU is capable of delivering 40% better sustained performance compared to the base iPhone 17.<p/> 
+<p>Display - LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)</p>
+<p> Resolution - 1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density)</p>
+<p>Battery Life - 18-20 Hours</p>
+
+<h3>iPhone Air</h3>
+
+<p><a href="https://www.apple.com/uk/iphone-air/">
+<img src="images/iphone_air.png" alt="iPhone Air" width="150" height="250" style="float: left;"> 
+</a></p>
+
+<p>Apple's newest and thinnest creation, the iPhone Air is a marvel of innovation that feels almost impossibly light when held. The new A19 Pro chip helps deliver the fastest CPU in any smartphone, along with the Ceramic Shield V2 that gives 3x better scratch resistance.</p>
+<p>Display - LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)</p>
+<p>Resolution - 1260 x 2736 pixels, 19.5:9 ratio (~460 ppi density)</p>
+<p>Battery Life - 20-22 Hours</p>
+
+
+
+
+
+
+<h3>Need help?</h3>
+<a href="https://discussions.apple.com/welcome/">Apple Support Community</a>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+h1 {
+  font-size:10vw;
+}
+
+p {
+  font-size:1.14vw;
+}
+</style>
+</body>
